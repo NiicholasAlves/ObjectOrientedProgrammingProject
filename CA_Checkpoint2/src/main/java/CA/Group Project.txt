@@ -1,6 +1,5 @@
 Project Description - Climate Change App
 
-GitHub Link: https://github.com/NiicholasAlves/ObjectOrientedProgrammingProject/tree/main 
 
 Checkpoint 2 - GUI files
 
