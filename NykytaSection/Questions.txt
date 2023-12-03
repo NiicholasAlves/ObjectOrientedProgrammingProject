@@ -1,0 +1,8 @@
+Is C02 a Greenhouse gas?;true;C02 is one of the gasses that is responsible for Greenhouse effect.;
+Earth's climate has always been stable, with little variation?;false;Earth's climate has experienced periods of both warming and cooling throughout its history.;
+Carbon dioxide (CO2) is the only greenhouse gas responsible for climate change?;false;While CO2 is a significant contributor, other greenhouse gases like methane (CH4) and nitrous oxide (N2O) also play crucial roles in trapping heat in the atmosphere;
+Is climate change real?;true;IPCC,the leading international body for the assessment of climate change, has concluded that "it is extremely likely that human influence has been the dominant cause of the observed warming since the mid-20th century.";
+Climate change is only a problem for countries near the equator?;false;Climate change is a global problem that will impact all regions of the world. However, some regions, such as the Arctic and small island nations, are more vulnerable.;
+Individual actions can't make a difference in addressing climate change?;false;Individuals can make a difference. Reducing our energy consumption, choosing sustainable products, and supporting climate-friendly policies are all ways that individuals can help address climate change.;
+The current warming trend is much faster than any natural climate change in the past 10,000 years?;true;Global sea levels have risen by about 8 inches since the late 19th century, causing coastal communities around the world to be at risk of flooding and erosion.;
+Climate change is a threat to biodiversity?;true;The IPCC has estimated that up to one million species could be extinct by 2050 if global warming continues.;
