@@ -1,0 +1,6 @@
+Results for West on 2023-1-25:
+Temperature: -5.0°C
+Humidity: 30.0%
+Rainfall: 10.0mm
+CO2 Levels: 420.0ppm
+------------------------------------------------
