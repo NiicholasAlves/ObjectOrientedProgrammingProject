@@ -1,0 +1,30 @@
+Results for West on 2023-1-25:
+Temperature: -5.0°C
+Humidity: 30.0%
+Rainfall: 10.0mm
+CO2 Levels: 420.0ppm
+------------------------------------------------
+Results for West on 2020-1-25:
+Temperature: -4.0°C
+Humidity: 32.0%
+Rainfall: 15.0mm
+CO2 Levels: 418.0ppm
+------------------------------------------------
+Results for West on 2020-1-25:
+Temperature: -4.0Â°C
+Humidity: 32.0%
+Rainfall: 15.0mm
+CO2 Levels: 418.0ppm
+------------------------------------------------
+Results for West on 2021-1-25:
+Temperature: -2.0Â°C
+Humidity: 33.0%
+Rainfall: 10.0mm
+CO2 Levels: 420.0ppm
+------------------------------------------------
+Results for West on 2022-1-25:
+Temperature: -1.0Â°C
+Humidity: 34.0%
+Rainfall: 8.0mm
+CO2 Levels: 422.0ppm
+------------------------------------------------
