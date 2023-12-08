@@ -34,12 +34,6 @@ public class ClimateDataGUI extends javax.swing.JFrame {
         }
     });
 
-        skipButton.addActionListener(new java.awt.event.ActionListener(){
-        @Override
-        public void actionPerformed(java.awt.event.ActionEvent evt){
-            skipButtonActionPerformed(evt);
-        }
-    });
 }
     private void calculateButtonActionPerformed(java.awt.event.ActionEvent evt){
         String selectContinent = (String) continentComboBox.getSelectedItem();
