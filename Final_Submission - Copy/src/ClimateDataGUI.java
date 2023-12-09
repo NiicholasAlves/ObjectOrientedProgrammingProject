@@ -246,9 +246,35 @@ public class ClimateDataGUI extends javax.swing.JFrame {
 
     private void skipButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_skipButtonActionPerformed
             // TODO add your handling code here:
-            QuestionsGUI questions = null;
+/*   - Version 1
+QuestionsGUI questions = null;
         try {
             questions = new QuestionsGUI();
+        } catch (FileNotFoundException ex) {
+            Logger.getLogger(ClimateDataGUI.class.getName()).log(Level.SEVERE, null, ex);
+        }
+            questions.show();
+        
+            dispose();
+*/
+
+        // Version 2
+            QuestionsGUI questions = null;
+            CarbonCalculatorGUI calculator = null;
+        try {
+            QuestionsFactory.loadQuestions();
+            if(!QuestionsFactory.noQuestions()){//Try to open Question section if there is no issue with questions being added
+                questions = new QuestionsGUI();
+            } else {
+                try{
+                    calculator = new CarbonCalculatorGUI();
+                    calculator.setVisible(true);
+                    dispose();
+                } catch(java.lang.RuntimeException e){
+                    System.out.println("Carbon Calculator file not found!");
+                    JOptionPane.showMessageDialog(this,"Carbon Calculator file not found");
+                }      
+            }
         } catch (FileNotFoundException ex) {
             Logger.getLogger(ClimateDataGUI.class.getName()).log(Level.SEVERE, null, ex);
         }
