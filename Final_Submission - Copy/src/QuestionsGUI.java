@@ -216,7 +216,6 @@ public class QuestionsGUI extends javax.swing.JFrame {
             // Creates new Fact window           
             f.setFact(question.getFact());
             f.setName("You are Correct!");
-            System.out.println(questionCount + " " + questions.isEmpty());
             f.setVisible(true);
             
             
