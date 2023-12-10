@@ -169,8 +169,8 @@ public class ClimateDataGUI extends javax.swing.JFrame {
         linkToArticle.setContentType("text/html");
         linkToArticle.setEditable(false);
 
-        String htmlContent = "For more information, visit: <a href='http://example.com'>our website</a> " +
-        "Take a quiz to learn more: <a href='http://example.com/quiz'>quiz link</a></body></html>";
+        String htmlContent = "For more information, visit: link " +
+        "Take a quiz to learn more: link";
 
         linkToArticle.setText(htmlContent);
 
